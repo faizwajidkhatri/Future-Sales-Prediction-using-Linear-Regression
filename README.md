@@ -6,5 +6,5 @@ The dataset given here contains the data about the sales of the product. The dat
 1. TV: Advertising cost spent in dollars for advertising on TV;
 2. Radio: Advertising cost spent in dollars for advertising on Radio;
 3. Newspaper: Advertising cost spent in dollars for advertising on Newspaper;
-Sales: Number of units sold;
+4. Sales: Number of units sold;
 So, in the above dataset, the sales of the product depend on the advertisement cost of the product.
